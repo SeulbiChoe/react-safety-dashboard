@@ -1,6 +1,6 @@
 function GNB() {
   return (
-    <header className="bg-white h-12 flex items-center justify-between px-6 border-b border-gray-200">
+    <header className="bg-white h-15 flex items-center justify-between px-6 border-b border-gray-200">
       {/* 왼쪽 로고 */}
       <span className="font-bold text-sm text-gray-700">DUEGO SAFER DASH BOARD</span>
 
